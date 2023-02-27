@@ -15,7 +15,7 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import com.example.ecommerceapp.R;
-import com.example.ecommerceapp.SliderAdapter;
+import com.example.ecommerceapp.adapters.SliderAdapter;
 
 public class OnBoardingActivity extends AppCompatActivity {
 
