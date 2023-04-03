@@ -58,7 +58,7 @@
 
 
     <Button
-        android:backgroundTint="@color/pink"
+        android:backgroundTint="@color/purple_700"
         android:id="@+id/button"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
@@ -95,7 +95,7 @@
         android:textColor="@color/blue"
         android:textSize="19sp"
         android:textStyle="bold"
-        android:backgroundTint="@color/pink"
+        android:backgroundTint="@color/purple_700"
         app:layout_constraintBottom_toBottomOf="@+id/textView3"
         app:layout_constraintStart_toEndOf="@+id/textView3"
         app:layout_constraintTop_toTopOf="@+id/textView3" />
